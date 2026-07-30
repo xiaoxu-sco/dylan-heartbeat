@@ -213,7 +213,7 @@ nano .env   # 也可直接用文本编辑器打开 .env 文件修改
 TARGET_API_URL=https://api.68886868.xyz/v1/chat/completions
 TARGET_API_KEY=sk-dIQGwg47FIxpZaBNd9Tc4EZ48OwB09M6rayHcynhTYzmZWpo
 GATEWAY_API_KEY=xiaoxudesssss
-MODEL_NAME=你的模型
+MODEL_NAME=claude
 BARK_KEY=079c3c7822ab9c717ed7c0112071c5222c72e9728b5ac007066eab0c4fb02f3f
 CUSTOM_ICON_URL=https://你的图标URL（可选）
 ALLOW_PUBLIC_API=false
