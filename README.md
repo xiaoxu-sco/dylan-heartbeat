@@ -191,7 +191,7 @@ node wake_up.js
 2. 从你自己的 fork clone：
    ```bash
    # 请把 YOUR_USERNAME 替换成你的 GitHub 用户名
-   git clone https://github.com/YOUR_USERNAME/dylan-heartbeat.git
+   git clone https://github.com/xiaoxu-sco/dylan-heartbeat.git
    cd dylan-heartbeat
    ```
 3. 后续所有配置、部署、二次修改都在你自己的 fork 里完成
