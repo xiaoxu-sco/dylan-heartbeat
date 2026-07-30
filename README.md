@@ -210,11 +210,11 @@ nano .env   # 也可直接用文本编辑器打开 .env 文件修改
 
 `.env` 完整配置示例：
 ```env
-TARGET_API_URL=https://你的API地址/v1/chat/completions
-TARGET_API_KEY=sk-你的APIKey
-GATEWAY_API_KEY=请改成随机长密码
+TARGET_API_URL=https://api.68886868.xyz/v1/chat/completions
+TARGET_API_KEY=sk-dIQGwg47FIxpZaBNd9Tc4EZ48OwB09M6rayHcynhTYzmZWpo
+GATEWAY_API_KEY=xiaoxudesssss
 MODEL_NAME=你的模型
-BARK_KEY=你的Bark设备Key
+BARK_KEY=079c3c7822ab9c717ed7c0112071c5222c72e9728b5ac007066eab0c4fb02f3f
 CUSTOM_ICON_URL=https://你的图标URL（可选）
 ALLOW_PUBLIC_API=false
 PUSH_PROVIDER=bark
@@ -243,7 +243,7 @@ GATEWAY_BASE_URL=http://localhost:3000
 TIME_ZONE=Europe/London
 RESTART_COMMAND=pm2 restart gateway wake-up --update-env
 ADMIN_USER=admin
-ADMIN_PASSWORD=你的强密码
+ADMIN_PASSWORD=AAAxiaoxudesssss
 ```
 
 图片消息说明：
