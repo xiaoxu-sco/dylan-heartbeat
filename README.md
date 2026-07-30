@@ -288,7 +288,7 @@ node wake_up.js
 在 Kelivo 的**自定义 API 地址**中填写：
 
 ```
-http://你的电脑局域网IP:3000/v1/chat/completions
+http://192.168.1.1:3000/v1/chat/completions
 ```
 
 > 电脑 IP 可在终端执行 `ifconfig | grep "inet " | grep -v 127.0.0.1` 查看（通常为 `192.168.x.x` 或 `172.16.x.x`）。
